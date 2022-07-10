@@ -1,0 +1,7 @@
+0 LDCad info for "Plate 10 x 10 with Rounded End"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 20] [grid=C 10 C 8 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -70] [grid=C 8 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 -90] [grid=C 6 1 20 0]

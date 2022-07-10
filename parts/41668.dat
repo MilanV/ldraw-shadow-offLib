@@ -1,0 +1,7 @@
+0 LDCad info for "Constraction Foot  2 x  5 x  3 with Ball Socket"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_GEN [group=techBallJnt] [gender=F] [bounding=sph 12.7] [match=size] [placement=free]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 4] [slide=true] [pos=-2 0 0] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 C 2 1 0 28 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [slide=true] [pos=0 40 20] [ori=0 1 0 -1 0 0 0 0 1] [grid=1 2 1 0 20 0]

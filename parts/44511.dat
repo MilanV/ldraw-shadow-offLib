@@ -1,0 +1,11 @@
+0 LDCad info for "Roof Piece  8 x 12 x 10 Half Onion Dome"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [ID=studC] [gender=M] [caps=one] [secs=R 6 4] [pos=-10 0 -10]
+0 !LDCAD SNAP_CYL [ID=studC] [gender=M] [caps=one] [secs=R 6 4] [pos=10 0 -10]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 240 -90] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=70 240 -20] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-70 240 -20] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 4 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-40 240 -70] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=40 240 -70] [grid=C 2 1 20 0]

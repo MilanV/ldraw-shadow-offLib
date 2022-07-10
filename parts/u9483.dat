@@ -1,0 +1,8 @@
+0 LDCad info for "~Electric Motor  4 x 12 x  3.333 Type 3 Base (Needs Work)"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 100] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 56 -100] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 80 40] [grid=C 4 C 4 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 80 -60] [grid=C 4 C 2 20 20]

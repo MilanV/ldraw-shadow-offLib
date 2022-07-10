@@ -1,0 +1,11 @@
+0 LDCad info for "Wheel Rim 20 x 33 with  6 Pinholes"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 -20 -15] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=17.320508 -10 -15] [ori=1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=17.320508 10 -15] [ori=1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-17.320508 -10 -15] [ori=1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-17.320508 10 -15] [ori=1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 20 -15] [ori=1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [id=axleHole] [gender=F] [caps=none] [secs=A 6 19] [slide=true] [pos=0 0 -8] [ori=1 0 0 0 0 1 0 -1 0] [scale=YOnly]

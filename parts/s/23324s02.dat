@@ -1,0 +1,6 @@
+0 LDCad info for "~Electric Motor Unit  6 x 18 x  4 Bottom - End"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_INCL [ref=connhole.dat] [pos=170 -14 0] [ori=0 1 0 0 0 1 1 0 0] [grid=C 3 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=170 0 0] [ori=0 0 1 0 1 0 -1 0 0] [grid=C 4 1 20 0]

@@ -1,0 +1,7 @@
+0 LDCad info for "Bar  2L T-shaped with Two Bar Holes and Bottom Tube"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=two] [secs=R 4 20] [slide=true] [pos=0 -28 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10] [slide=true] [pos=-20 -38 0] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 10] [slide=true] [pos=20 -38 0] [ori=0 1 0 1 0 0 0 0 -1]

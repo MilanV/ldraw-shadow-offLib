@@ -1,0 +1,7 @@
+0 LDCad info for "~Electric Motor Unit  6 x 18 x  4 Top - Left/Right"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=170 -54 -20] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=170 -54 20] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=120 -94 0] [grid=2 1 20 0]

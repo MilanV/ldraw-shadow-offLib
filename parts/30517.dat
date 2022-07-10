@@ -1,8 +1,13 @@
 0 LDCad info for "Support  2 x  2 x 10 Girder Triangular"
 0 Author: Roland Melkert [roland]
 0 !LICENSE Free for non-commercial use.
+0 !HISTORY 2022-07-08 [MilanV] Fixed during update 22-03
 
 0 !LDCAD SNAP_CLEAR [ID=axleHole2]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 240 0] [grid=C 2 C 2 20 20]
 0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 4] [grid=C 2 C 2 20 20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4   A 6 16] [pos=0 240 0]
+0 !LDCAD SNAP_CYL [ID=studO] [gender=F] [caps=one] [secs=R 4 4] [pos=-10 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [ID=studO] [gender=F] [caps=one] [secs=R 4 4] [pos=-10 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [ID=studO] [gender=F] [caps=one] [secs=R 4 4] [pos=10 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [ID=studO] [gender=F] [caps=one] [secs=R 4 4] [pos=10 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]

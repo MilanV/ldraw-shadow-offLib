@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Tool Hose Nozzle with Handle at Bottom and Top"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 16] [slide=true] [pos=0 -8 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [ID=studC] [gender=M] [caps=one] [secs=R 6 4] [pos=0 -14 -26] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 4 20] [center=true] [pos=0 -30 0] [ori=0 -1 0 1 0 0 0 0 1]

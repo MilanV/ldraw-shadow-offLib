@@ -1,0 +1,9 @@
+0 LDCad info for "~Electric Record and Play Brick 16 x 10 x  4 Bottom (Needs Work)"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 6 -80] [grid=C 8 C 4 20 20]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=70 -26 -20] [ori=0 -1 0 1 0 0 0 0 1] [grid=1 4 0 40]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-70 -26 100] [ori=0 1 0 1 0 0 0 0 -1] [grid=1 4 0 40]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-20 -26 -150] [ori=0 0 1 1 0 0 0 1 0] [grid=1 2 0 40]
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=-60 -26 -130] [ori=0 0 1 1 0 0 0 1 0] [grid=1 2 0 120]

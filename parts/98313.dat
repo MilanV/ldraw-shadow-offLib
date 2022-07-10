@@ -1,0 +1,7 @@
+0 LDCad info for "Minifig Mechanical Arm with Clip and Rod Hole with Thick Forearm"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 10] [slide=true] [pos=38 17.5 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 14] [slide=true] [pos=23.5 17.5 -7] [ori=0 0 -1 1 0 0 0 -1 0]

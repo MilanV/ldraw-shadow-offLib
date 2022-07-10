@@ -1,0 +1,8 @@
+0 LDCad info for "~Electric Train Motor  4 x 12 x  4 Base"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 96 0] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 4 C 2 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-30 96 0] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 8 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=30 96 0] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 8 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 72 -100] [ori=-1 0 0 0 1 0 0 0 -1] [grid=C 4 C 2 20 20]

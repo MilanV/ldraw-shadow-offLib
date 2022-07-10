@@ -1,0 +1,7 @@
+0 LDCad info for "Duplo Plate  4 x  8 Round Semicircle"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=0 24 -40] [grid=C 8 C 2 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=0 24 -100] [grid=C 6 1 40 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 12 20] [pos=0 24 -140] [grid=C 4 1 40 0]

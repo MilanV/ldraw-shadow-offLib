@@ -1,0 +1,6 @@
+0 LDCad info for "Minifig Skirt Wavy"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 11] [pos=10 0 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 11] [pos=-10 0 0]
