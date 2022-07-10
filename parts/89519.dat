@@ -1,0 +1,9 @@
+0 LDCad info for "Bar Grille  9 x 13 with Studs and Tips"
+0 Author: Milan Vančura [Milan Vančura]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 20] [slide=true] [pos=-80 0 70] [ori=1 0 0 0 0 1 0 -1 0] [grid=9 5 1 20 40 0]
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 8] [slide=true] [pos=-66 0 120] [ori=0 1 0 0 0 1 1 0 0] [grid=1 8 1 0 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 4] [slide=true] [pos=0 2 100]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [slide=true] [pos=-60 8 -100] [grid=4 6 40 40]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [slide=true] [pos=60 -8 -100] [ori=-1 0 0 0 -1 0 0 0 1] [grid=4 6 40 40]

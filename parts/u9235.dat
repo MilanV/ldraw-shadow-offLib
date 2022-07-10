@@ -1,0 +1,6 @@
+0 LDCad info for "~Motor Wind-Up  4 x 10 x  3 Bottom (Needs Work)"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 72 20] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 6 C 4 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 48 -70] [grid=C 4 C 3 20 20]

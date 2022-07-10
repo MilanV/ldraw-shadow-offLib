@@ -1,0 +1,5 @@
+0 LDCad info for "| BBB Train Wheel Medium Flanged Driver 24.0 mm"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [id=connhole] [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2] [center=true] [slide=true] [pos=0 -15 -10] [ori=1 0 0 0 0 -1 0 1 0]

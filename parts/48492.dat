@@ -1,0 +1,6 @@
+0 LDCad info for "Animal Horse Head Armour with Plates"
+0 Author: Milan Vančura [MilanV]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true] [pos=0 -0.7 -51.8] [ori=0 1 0 -0.93969262 0 0.34202014 0.34202014 0 0.93969262]
+0 !LDCAD SNAP_CYL [group=horseCap] [gender=F] [caps=one] [secs=S 8 30] [pos=0 1 -4] [ori=1 0 0 0 0 -1 0 1 0]

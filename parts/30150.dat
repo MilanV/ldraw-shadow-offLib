@@ -2,6 +2,10 @@
 0 Author: Roland Melkert [roland]
 0 !LICENSE Free for non-commercial use.
 
+0 !HISTORY 2022-07-10 [MilanV] antistud and bar snap info added
+
 0 //TODO: Needs new orientation restriction
 0 !LDCAD SNAP_GEN [gender=M] [bounding=box 30 8 40] [pos=0 -32 0]
 0 !LDCAD SNAP_GEN [gender=F] [bounding=box 30 8 40] [pos=0 8 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [ori=0 0 -1 0 1 0 1 0 0] [grid=C 4 C 3 20 20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 4] [pos=0 4 -10] [grid=1 2 0 20]

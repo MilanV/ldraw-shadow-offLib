@@ -1,0 +1,8 @@
+0 LDCad info for "Electric Technic Pole Reverser - Centre"
+0 Author: Milan Vančura [Milan Vančura]
+0 !LICENSE Licenced under CC BY 4.0 : see CAreadme.txt
+
+0 !LDCAD SNAP_CYL [id=axleHole] [gender=F] [caps=none] [secs=A 6 2] [slide=true] [pos=0 12 0] [scale=YOnly]
+0 !LDCAD SNAP_CYL [id=axleHole] [gender=F] [caps=none] [secs=A 6 2] [slide=true] [pos=0 -12 0] [ori=1 0 0 0 -1 0 0 0 -1] [scale=YOnly]
+0 !LDCAD SNAP_CYL [id=axleHole] [gender=F] [caps=none] [secs=A 6 2] [slide=true] [pos=12 0 0] [ori=0 1 0 1 0 0 0 0 -1] [scale=YOnly]
+0 !LDCAD SNAP_CYL [id=axleHole] [gender=F] [caps=none] [secs=A 6 2] [slide=true] [pos=-12 0 0] [ori=0 -1 0 1 0 0 0 0 1] [scale=YOnly]
